@@ -75,7 +75,7 @@ public class StudentInterface {
     }
 
     /**
-     * Метод добавления удаления
+     * Метод добавления Студента
      * @throws IOException возможная ошибка во время ввода/ввывода
      */
     private static void addStudent() throws IOException {

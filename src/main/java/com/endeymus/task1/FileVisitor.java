@@ -48,6 +48,8 @@ public class FileVisitor {
                 e.printStackTrace();
             }
         });
+
+        System.out.println("Содержимое всех текстовых файлов успешно объединено, полученный файл: " + dest);
     }
 
     /**
